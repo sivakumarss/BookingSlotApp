@@ -1,0 +1,6 @@
+[submodule "calender-app-client"]
+	path = calender-app-client
+	url = https://github.com/sivakumarss/calender-app-client.git
+[submodule "CalenderAppService"]
+	path = CalenderAppService
+	url = https://github.com/sivakumarss/CalenderAppService.git
